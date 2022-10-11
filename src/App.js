@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+import Rocks from './Rocks.JPG';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={Rocks} className="App-logo" alt="logo" />
         <p>
           Enter <code>the matrix</code>.
         </p>
